@@ -5,9 +5,6 @@
 ##### Installation
 ``` npm i @shai_ben_shimol/nesti -S```
 
-```bash
-$ sudo docker-compose up
-```
 ## Quick start
 
 
@@ -65,3 +62,9 @@ export class AppController {
 ```
 ### Full Documentation ###
 [nano]((https://www.npmjs.com/package/nano))
+
+### docker-compose run couchdb
+
+```bash
+$ sudo docker-compose up
+```
