@@ -31,7 +31,7 @@ export class AppModule {}
 Afterward, the nesti instance will be available to inject across entire project (and in your feature modules, being `NestiModule` a global one) using the db_options injection token:
 
 ```typescript
-import { Nesti, NestiService } from '@shai_ben_shimol/nesti';
+import { Nesti, NestiService ,MaybeDocument} from '@shai_ben_shimol/nesti';
 import { Body, Controller, Delete, Get, Param, Post, Put } from '@nestjs/common';
 import { AppService } from './app.service';
 
