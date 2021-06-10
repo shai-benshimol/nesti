@@ -5,7 +5,11 @@
 ##### Installation
 ``` npm i @shai_ben_shimol/nesti -S```
 
+```bash
+$ sudo docker-compose up
+```
 ## Quick start
+
 
 Import `Nesti` into the root `AppModule` and use the `init()` method to configure this database option. 
 
