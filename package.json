@@ -1,7 +1,7 @@
 {
 
     "name": "@shai_ben_shimol/nesti",
-    "version": "1.0.12",
+    "version": "1.0.15",
     "description": "A Nest module wrapper for nano couchdb",
     "keywords": [
         "nestjs",
