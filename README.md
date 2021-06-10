@@ -60,11 +60,11 @@ export class AppController {
   }
 }
 ```
+
 ### Full Documentation ###
 [nano]((https://www.npmjs.com/package/nano))
 
-### docker-compose run couchdb
-
+You can use the `docker-compose.yml` and run  
 ```bash
 $ sudo docker-compose up
 ```
